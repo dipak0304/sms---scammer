@@ -11,7 +11,10 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 4. cd sms-scammer
 5. python sms.py
 
-Follow on Instagram - [click here](https://www.instagram.com/dipak.bohara03/)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipak.bohara03/)
+
 
 
 

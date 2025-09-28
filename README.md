@@ -11,7 +11,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 4. cd sms-scammer
 5. python sms.py
 
-Follow on Instagram - [click here](https://instagram.com/sanif_kumar)
+Follow on Instagram - [click here](https://www.instagram.com/dipak.bohara03/)
 
 
 

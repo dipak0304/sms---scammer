@@ -6,7 +6,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 
 **steps to install it in termux/lunix** :
 1. apt install python git -y
-2. git clone https://github.com/Sanif007/sms-scammer
+2. git clone https://github.com/dipak0304/sms---scammer
 3. pip install requests
 4. cd sms-scammer
 5. python sms.py

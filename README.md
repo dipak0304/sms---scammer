@@ -1,5 +1,5 @@
 # sms-scammer [v. 5.0](https://github.com/dipak0304/sms---scammer)
-# Author : [Ninja Hydra ](https://github.com/dipak0304/sms---scammer)
+# Author : [Dipak Bohara ](https://github.com/dipak0304/sms---scammer)
 this tool is not for any revenge purpose. Please use it only for fun! Use wisely!
 
 # unfortunately due to some error this might show some error in few countries recently!  Am trying to use some new ways till then please wait! 
